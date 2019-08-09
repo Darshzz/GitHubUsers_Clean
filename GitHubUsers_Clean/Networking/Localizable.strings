@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  //  GitHubUsers_Clean
+  //
+  //  Created by Darshan on 02/08/19.
+  Copyright © 2019 Darshan. All rights reserved.
+*/
+
+
+"ALERT"   = "Alert";
+"ListVC_Title" = "GitHub DM";

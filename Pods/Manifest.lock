@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.0.5)
+  - Kingfisher (4.10.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift (~> 6.0.4)
+  - Kingfisher (~> 4.10.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManagerSwift
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c14eca30f6001457d6ddf25e313f23fb6578c41c
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+
+PODFILE CHECKSUM: 9b3b1a59aa8cb6d06479ba7b0a05fb01119d948e
+
+COCOAPODS: 1.5.3
